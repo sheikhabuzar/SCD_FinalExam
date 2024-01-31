@@ -12,6 +12,9 @@ public:
 
     // Other functions and data members can be added as needed
 };
+bool processPayment(double amount, string paymentMethod){
+	//define
+}
 void searchHotels(string location, string date) {
         // Implement search logic
         cout << "Searching for hotels in " << location << " on " << date << std::endl;
