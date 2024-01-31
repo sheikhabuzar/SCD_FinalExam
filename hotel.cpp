@@ -23,3 +23,10 @@ void viewHotelDetails(int hotelID) {
         // Add your logic here
     }
 
+
+  void bookRoom(int roomID, std::string date) {
+        // Implement booking logic
+        std::cout << "Booking room ID " << roomID << " for date " << date << std::endl;
+        // Add your logic here
+    }
+
