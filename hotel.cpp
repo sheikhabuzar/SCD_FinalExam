@@ -17,3 +17,9 @@ void searchHotels(string location, string date) {
         cout << "Searching for hotels in " << location << " on " << date << std::endl;
        
     }
+void viewHotelDetails(int hotelID) {
+        // Implement logic to retrieve and display hotel details
+        cout << "Viewing details for hotel ID: " << hotelID << endl;
+        // Add your logic here
+    }
+
